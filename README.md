@@ -8,6 +8,7 @@
 - 🤔 I’m looking for help to understand & learn Deep Learning 
 - 💬 Ask me about Supervised Learning & Django Framework
 - 📫 How to reach me: https://www.linkedin.com/in/harshalhiwarkar01/
+- ⚡ Fun fact: I spend my most of the time on youtube & with my friends
 <!--
 - 😄 Pronouns: ...
--->- ⚡ Fun fact: I spend my most of the time on youtube & with my friends
+-->
