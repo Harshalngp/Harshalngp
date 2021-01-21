@@ -10,5 +10,4 @@
 - 📫 How to reach me: https://www.linkedin.com/in/harshalhiwarkar01/
 <!--
 - 😄 Pronouns: ...
--->
-- ⚡ Fun fact: I spend my most of the time on youtube & with my friends
+-->- ⚡ Fun fact: I spend my most of the time on youtube & with my friends
