@@ -21,12 +21,6 @@
     <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/078d575015caef2fa0605651bb5f9c036eece86b209339779671526c3639c25d/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f646a616e676f2e706e67"><img height="48" src="https://camo.githubusercontent.com/078d575015caef2fa0605651bb5f9c036eece86b209339779671526c3639c25d/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f646a616e676f2e706e67" data-canonical-src="https://img.icons8.com/color/48/000000/django.png" style="max-width:100%;"></a>
   </code>
   <code>
-    <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/4acd8bdca03fc5380983f3c9d930d260f73951679fff0b0995453167751695e0/68747470733a2f2f696d672e69636f6e73382e636f6d2f6e6f6c616e2f36342f73716c2e706e67"><img height="48" src="https://camo.githubusercontent.com/4acd8bdca03fc5380983f3c9d930d260f73951679fff0b0995453167751695e0/68747470733a2f2f696d672e69636f6e73382e636f6d2f6e6f6c616e2f36342f73716c2e706e67" data-canonical-src="https://img.icons8.com/nolan/64/sql.png" style="max-width:100%;"></a>
-  </code>
-  <code>
-    <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/1857d88f6f2355c412cf2b9eb5809757ac035ba5614cbd649601ccd84dae41df/68747470733a2f2f696d672e69636f6e73382e636f6d2f627562626c65732f35302f3030303030302f6170692e706e67"><img height="48" src="https://camo.githubusercontent.com/1857d88f6f2355c412cf2b9eb5809757ac035ba5614cbd649601ccd84dae41df/68747470733a2f2f696d672e69636f6e73382e636f6d2f627562626c65732f35302f3030303030302f6170692e706e67" data-canonical-src="https://img.icons8.com/bubbles/50/000000/api.png" style="max-width:100%;"></a>
-  </code>
-  <code>
     <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/b2984df3e4f4a4306183aa931a8e6b9ab55d9d5a3d8c7048840cea74a1d270a6/68747470733a2f2f696d672e69636f6e73382e636f6d2f6e6f6c616e2f34382f6c696e75782d2d76322e706e67"><img height="48" src="https://camo.githubusercontent.com/b2984df3e4f4a4306183aa931a8e6b9ab55d9d5a3d8c7048840cea74a1d270a6/68747470733a2f2f696d672e69636f6e73382e636f6d2f6e6f6c616e2f34382f6c696e75782d2d76322e706e67" data-canonical-src="https://img.icons8.com/nolan/48/linux--v2.png" style="max-width:100%;"></a>
   </code>
 <p>
