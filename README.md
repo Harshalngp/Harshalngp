@@ -14,7 +14,7 @@
 -->
 <h4>Skills 💖:</h4>
 <p>
-  <code><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/ead1695136b8acffe700b669ae8aa36d6b08933e6a0b349fb240f37441f04d7e/68747470733a2f2f696d672e69636f6e73382e636f6d2f6e6f6c616e2f36342f707974686f6e2e706e67"><img height="48" src="https://camo.githubusercontent.com/ead1695136b8acffe700b669ae8aa36d6b08933e6a0b349fb240f37441f04d7e/68747470733a2f2f696d672e69636f6e73382e636f6d2f6e6f6c616e2f36342f707974686f6e2e706e67" data-canonical-src="https://img.icons8.com/nolan/64/python.png" style="max-width:100%;"></a>
+  <code style="height:19.5; width:19.5;"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/ead1695136b8acffe700b669ae8aa36d6b08933e6a0b349fb240f37441f04d7e/68747470733a2f2f696d672e69636f6e73382e636f6d2f6e6f6c616e2f36342f707974686f6e2e706e67"><img height="48" src="https://camo.githubusercontent.com/ead1695136b8acffe700b669ae8aa36d6b08933e6a0b349fb240f37441f04d7e/68747470733a2f2f696d672e69636f6e73382e636f6d2f6e6f6c616e2f36342f707974686f6e2e706e67" data-canonical-src="https://img.icons8.com/nolan/64/python.png" style="max-width:100%;"></a>
   </code>&nbsp;&nbsp;&nbsp;&nbsp; 
   <code>
     <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/b2984df3e4f4a4306183aa931a8e6b9ab55d9d5a3d8c7048840cea74a1d270a6/68747470733a2f2f696d672e69636f6e73382e636f6d2f6e6f6c616e2f34382f6c696e75782d2d76322e706e67"><img height="48" src="https://camo.githubusercontent.com/078d575015caef2fa0605651bb5f9c036eece86b209339779671526c3639c25d/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f646a616e676f2e706e67" data-canonical-src="https://img.icons8.com/color/48/000000/django.png" style="max-width:100%;"></a>
