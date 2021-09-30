@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on ...
 -->
 -  🌱 I’m currently learning Machine Learning + Django + C++ + Java + Python + SQL.
-- 👯 I’m looking to collaborate on Django Project.
+- 👯 I’m looking to collaborate on Django & C++ Project.
 - 🤔 I’m looking for help to understand & learn Deep Learning. 
 - 💬 Ask me about Supervised Learning & Django Framework.
 - 📫 How to reach me: https://www.linkedin.com/in/harshalhiwarkar01/
