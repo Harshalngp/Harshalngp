@@ -3,10 +3,10 @@
 <!--
 - 🔭 I’m currently working on ...
 -->
--  🌱 I’m currently learning Machine Learning + Django + C++ + Java + Python + SQL.
-- 👯 I’m looking to collaborate on Django & C++ Project.
+-  🌱 I’m currently learning Machine Learning + C# + C++ + Java + Python + SQL.
+- 👯 I’m looking to collaborate on C# & C++ Project.
 - 🤔 I’m looking for help to understand & learn Deep Learning. 
-- 💬 Ask me about Supervised Learning & Django Framework.
+- 💬 Ask me about Supervised Learning & Programming Concept.
 - 📫 How to reach me: https://www.linkedin.com/in/harshalhiwarkar01/
 - ⚡ Fun fact: I spend my most of the time on youtube & with my friends.
 <!--
